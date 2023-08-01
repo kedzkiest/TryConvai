@@ -37,6 +37,10 @@ namespace Convai.gRPCAPI
                 Destroy(gameObject);
             }
 
+            foreach (var device in Microphone.devices)
+            {
+                Debug.Log("Name: " + device);
+            }
 
             convaiChatUIHandler = FindObjectOfType<ConvaiChatUIHandler>();
 
