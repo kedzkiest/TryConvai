@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7542b0a8b93c044618b3d84f58b4bc3c, type: 3}
-  m_Name: PlayerFaceMapper
+  m_Name: MalePlayerFaceMapper
   m_EditorClassIdentifier: 
   m_RigPrefab: {fileID: 444213086679620407, guid: 0c3f6ba5a0af0ce49916e22492bc51cb, type: 3}
   m_ShapeMatchTolerance: 0.6
