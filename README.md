@@ -1,5 +1,4 @@
 # TryConvai
-### Notice: This project is coming from my master program study from Lin Canguang Lab, The University of Aizu.
 ![2](https://github.com/kedzkiest/TryConvai/assets/66341676/3a3f225e-87bb-4c7f-a94c-60478e6d1917)　　
 
 ### convai is a framework for introducing NPCs that can talk and perform actions in a game. In this project, I used ARKit to explore the possibilities of convai and also to focus on my research area of emotions and to bring the characters' facial expressions to life. I also incorporated effects such as opening animations, UI, glitching effects, and minor screen shaking to create an immersive experience.  
@@ -13,3 +12,7 @@ https://github.com/kedzkiest/TryConvai/assets/66341676/67ae6655-9c55-4362-808d-3
 ## Conversation  
 https://github.com/kedzkiest/TryConvai/assets/66341676/41af7154-bc3e-4251-a2b8-1a9cd7756a73
 
+---
+
+### Notice: This project is coming from my master program study from Lin Canguang Lab, The University of Aizu.  
+### 注意事項: このプロジェクトは私が修士課程の研究室で作成したものです。  
